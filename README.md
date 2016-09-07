@@ -1,2 +1,2 @@
-Documentation for https://www.onlineoinschrijven.nl
+Documentation for https://www.online-inschrijven.nl
 
