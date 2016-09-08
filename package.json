@@ -1,0 +1,22 @@
+{
+  "name": "online-inschrijven-docs",
+  "version": "0.1.0",
+  "description": "The documentation pages for https://online-inschrijven.nl",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/%3Ahanskerkhof/online-inschrijven-docs.git"
+  },
+  "author": "Hans Kerkhof",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/%3Ahanskerkhof/online-inschrijven-docs/issues"
+  },
+  "homepage": "https://github.com/%3Ahanskerkhof/online-inschrijven-docs#readme",
+  "devDependencies": {
+    "gitbook": "^3.2.0"
+  }
+}

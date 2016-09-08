@@ -1,0 +1,8 @@
+{
+  "language": "nl",
+  "plugins": [
+    "hints",
+    "theme-official"
+  ],
+  "root": "./docs"
+}
