@@ -4,7 +4,7 @@
   "description": "The documentation pages for https://online-inschrijven.nl",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/%3Ahanskerkhof/online-inschrijven-docs#readme",
   "devDependencies": {
+    "gitbook": "^3.2.0"
+  }
+  "dependencies": {
     "gitbook": "^3.2.0"
   }
 }
