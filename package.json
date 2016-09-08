@@ -4,7 +4,7 @@
   "description": "The documentation pages for https://online-inschrijven.nl",
   "main": "index.js",
   "scripts": {
-    "test": "gulp test",
+    "test": "gulp test"
   },
   "repository": {
     "type": "git",
