@@ -18,7 +18,7 @@
   "homepage": "https://github.com/%3Ahanskerkhof/online-inschrijven-docs#readme",
   "devDependencies": {
     "gitbook": "^3.2.0"
-  }
+  },
   "dependencies": {
     "gitbook": "^3.2.0"
   }
